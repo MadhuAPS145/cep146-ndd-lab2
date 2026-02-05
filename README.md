@@ -5,7 +5,7 @@ Welcome to my academic portfolio for CEP146-NDD!
 ## About Me
 - Name: Madhu
 - Program: Computor Programming and Analysis
-- Year: Winter 2026,Semester 1
+- Year: Winter 2026, Semester 1
 - Favorite Programming Language: None yet
  
 ## Course Goals
